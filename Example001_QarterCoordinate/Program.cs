@@ -21,3 +21,7 @@ else if (x<0 && y<0)
 {
     Console.WriteLine("Точка в первой четверти");
 }
+else if (x==0 && y==0)
+{
+    Console.WriteLine("Введите другое значение");
+}
